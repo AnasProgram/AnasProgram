@@ -2,15 +2,22 @@
 
 <!--
 **AnasProgram/AnasProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## 👨‍💻 Kompetenzen
 
-Here are some ideas to get you started:
+- **Programmiersprachen:**
+  - Java (fortgeschritten)
+  - Python (fortgeschritten)
+  - JavaScript (Grundkenntnisse)
+  - HTML & CSS (Grundkenntnisse)
+  - Kotlin (Einsteiger)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Tools & Technologien:**
+  - Git, GitHub & GitLab
+  - LaTeX (Einsteiger)
+  - Linux (Ubuntu-Distribution)
+
+- **Softwarekenntnisse:**
+  - Microsoft Office (Word, Excel, PowerPoint – sehr gute Kenntnisse and SharePoint - gute Kenntnisse)
+
+
 -->
