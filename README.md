@@ -5,6 +5,7 @@
 - **Programmiersprachen:**
   - Java (fortgeschritten)
   - Python (fortgeschritten)
+  - C (mehr als Grundkenntnisse)
   - JavaScript (Grundkenntnisse)
   - HTML & CSS (Grundkenntnisse)
   - Kotlin (Einsteiger)
