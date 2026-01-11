@@ -7,7 +7,7 @@ If you’re a creator and plan to join anyway, Buy Me a Coffee offers an invite 
 
 👉 https://www.buymeacoffee.com/invite/anasabazid
 
- ## 👨‍💻 Kompetenzen
+ ## Kompetenzen
 
 - **Programmiersprachen:**
   - Java (fortgeschritten)
