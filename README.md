@@ -5,7 +5,7 @@ I use **Buy Me a Coffee** as a simple way to support creative and educational wo
 
 If you’re a creator and plan to join anyway, Buy Me a Coffee offers an invite system with shared benefits:
 
-👉 https://www.buymeacoffee.com/invite/anasabazid
+👉 https://buymeacoffee.com/anasabazid
 
  ## Kompetenzen
 
