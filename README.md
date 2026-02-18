@@ -14,12 +14,11 @@ If you’re a creator and plan to join anyway, Buy Me a Coffee offers an invite 
  ## Kompetenzen
 
 - **Programmiersprachen:**
-  - Java (fortgeschritten)
-  - Python (fortgeschritten)
-  - C (mehr als Grundkenntnisse)
+  - Java (gute Kenntnisse)
+  - Python (Grundkenntnisse)
+  - C (Grundkenntnisse)
   - JavaScript (Grundkenntnisse)
   - HTML & CSS (Grundkenntnisse)
-  - Kotlin (Einsteiger)
 
 - **Tools & Technologien:**
   - Git, GitHub & GitLab
@@ -27,4 +26,4 @@ If you’re a creator and plan to join anyway, Buy Me a Coffee offers an invite 
   - Linux (Ubuntu-Distribution)
 
 - **Softwarekenntnisse:**
-  - Microsoft Office (Word, Excel, PowerPoint – sehr gute Kenntnisse and SharePoint - gute Kenntnisse)
+  - Microsoft Office (Word, Excel, PowerPoint and SharePoint - gute Kenntnisse)
